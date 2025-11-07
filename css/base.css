@@ -3,13 +3,19 @@ body {
     color: #333333;
 }
 
+main {
+    padding: 2.5rem 0 0;
+    max-width: 1360px;
+    margin: 0 auto;
+}
+
 .btn {
     font-size: 1.25rem;
-    width: 161px;
+    width: 165px;
     height: 48px;
     border-radius: 25px;
     color: #ffffff;
-    font-weight: 500;
+    font-weight: 500;   
     padding: 10px 20px;
     transition: background-color 0.3s, border 0.3s;
 }

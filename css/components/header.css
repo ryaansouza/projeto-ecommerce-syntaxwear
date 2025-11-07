@@ -1,15 +1,15 @@
 .header {
     position: fixed;
-    top: 20px;
+    top: 60px;
     left: 50%;
     transform: translate(-50%);
-    width: calc(100% - 40px);
+    width: calc(100% - 120px);
     border-radius: 15px;
     z-index: 999;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.255rem 1.25rem;
+    padding: 0.265rem 1.25rem;
     background-color: #ffffff;
 }
 
