@@ -24,8 +24,6 @@ Este projeto foi desenvolvido como parte de um curso com o objetivo de aplicar e
 
 ## Estrutura de Arquivos
 
-O projeto está organizado da seguinte forma:
-
 ```
 /
 ├── index.html
